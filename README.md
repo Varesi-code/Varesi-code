@@ -50,7 +50,14 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="mac" alt="mac" width="40" height="40"/>&nbsp;
 </div>
 <hr>
+<div align="center">
+  <p></p>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Varesi-code&theme=soft-green&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD8122)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varesi-code&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  </div>
 
 
